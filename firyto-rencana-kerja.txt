@@ -8,4 +8,5 @@ rencana kerja firyto
   *pro player SOsis
 -polisi
 -programer
+  *programer C#
 -pns
