@@ -4,8 +4,9 @@ rencana kerja firyto
   *belajar akademis
   *latihan fisik
 -Jadi pro player
-  *jadi pro player Pabji
-  *jadi pro player WildRift
+  *pro player ML
+  *pro player SOsis
+-polisi
 -programer
   *programer C#
 -pns
