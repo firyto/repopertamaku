@@ -4,6 +4,8 @@ rencana kerja firyto
   *belajar akademis
   *latihan fisik
 -Jadi pro player
+  *pro player ML
+  *pro player SOsis
 -polisi
 -programer
 -pns
